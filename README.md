@@ -25,6 +25,7 @@ I have strong expertise in bioinformatics, high-throughput data analysis, and ma
 
 #### Translational Cancer Genomics
 
+**First-author**  
 - **Nepal et al.**, *bioRxiv*, 2025  
   _Epigenetic states shape phenotypic heterogeneity and influence survival in tumors with identical driver mutations._
 
@@ -40,6 +41,11 @@ I have strong expertise in bioinformatics, high-throughput data analysis, and ma
   _Genomic perturbations reveal distinct regulatory networks in intrahepatic cholangiocarcinoma._  
   https://onlinelibrary.wiley.com/doi/pdf/10.1002/hep.29764
 
+**Co-author**  
+- Wongworawat et al., *Frontiers in Immunology*, 2025  
+  _Spatial transcriptomics reveals distinct role of monocytes/macrophages with high FCGR3A expression in kidney transplant rejections._  
+  https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1654741/full
+
 - O’Rourke et al., *Hepatology*, 2020  
   _Identification of a pan‐gamma‐secretase inhibitor response signature for notch‐driven cholangiocarcinoma._  
   https://journals.lww.com/hep/abstract/2020/01000/identification_of_a_pan_gamma_secretase_inhibitor.17.aspx
@@ -48,15 +54,14 @@ I have strong expertise in bioinformatics, high-throughput data analysis, and ma
   _Association of Aflatoxin and Gallbladder cancer in Shanghai._  
   https://pubmed.ncbi.nlm.nih.gov/28428144/
 
+---
+
 #### Regulatory Genomics
 
+**First-author**  
 - **Nepal et al.**, *Nature Communications*, 2020  
   _Dual-initiation promoters with intertwined canonical and TCT/TOP transcription start sites diversify transcript processing._  
   https://www.nature.com/articles/s41467-019-13687-0
-
-- **Baranasic et al.**, *Nature Genetics*, 2022  
-  _Multiomic atlas with functional stratification and developmental dynamics of zebrafish cis-regulatory elements._  
-  https://www.nature.com/articles/s41588-022-01089-w
 
 - **Nepal et al.**, *iScience*, 2020  
   _Ancestrally duplicated conserved noncoding element suggests dual regulatory roles of HOTAIR in cis and trans._  
@@ -69,6 +74,15 @@ I have strong expertise in bioinformatics, high-throughput data analysis, and ma
 - **Nepal et al.**, *Genome Research*, 2013  
   _Dynamic regulation of the transcription initiation landscape at single nucleotide resolution during vertebrate embryogenesis._  
   https://genome.cshlp.org/content/23/11/1938
+
+**Co-author**  
+- **Baranasic et al.**, *Nature Genetics*, 2022  
+  _Multiomic atlas with functional stratification and developmental dynamics of zebrafish cis-regulatory elements._  
+  https://www.nature.com/articles/s41588-022-01089-w
+
+- Haberle et al., *Nature*, 2014  
+  _Two independent transcription initiation codes overlap on vertebrate core promoters._  
+  https://www.nature.com/articles/nature12974
 
 ---
 
