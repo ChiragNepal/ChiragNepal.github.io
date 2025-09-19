@@ -6,7 +6,8 @@ _Computational Genomics | Epigenetics | Precision Oncology_
 ---
 
 ### 🔬 About Me  
-Computational Genomicist | Clinical Genomics • Epigenetics • Precision Oncology
+** Computational Genomicist | Clinical Genomics • Transcriptomics • Epigenetics • Precision Oncology **
+
 I use large-scale (epi)genomic and clinical data to uncover biomarkers, drug resistance mechanisms, and immune-oncology insights. Recently, I identified epigenetic burden as a unifying axis of cancer evolution, shaping tumor features and informing precision diagnostics.
 
 
