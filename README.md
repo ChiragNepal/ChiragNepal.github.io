@@ -1,13 +1,11 @@
 # Chirag Nepal, Ph.D.
 
 **Assistant Professor, Loma Linda University**  
-_Computational Genomics | Epigenetics | Precision Oncology_
+**Computational Genomicist | Clinical Genomics • Transcriptomics • Epigenetics • Precision Oncology**
 
 ---
 
 ### 🔬 About Me  
-**Computational Genomicist | Clinical Genomics • Transcriptomics • Epigenetics • Precision Oncology**
-
 I use large-scale (epi)genomic and clinical data to uncover biomarkers, drug resistance mechanisms, and immune-oncology insights. Recently, I identified epigenetic burden as a unifying axis of cancer evolution, shaping tumor features and informing precision diagnostics.
 
 
