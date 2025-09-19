@@ -40,6 +40,10 @@ I have strong expertise in bioinformatics, high-throughput data analysis, and ma
   _Genomic perturbations reveal distinct regulatory networks in intrahepatic cholangiocarcinoma._  
   https://onlinelibrary.wiley.com/doi/pdf/10.1002/hep.29764
 
+- O’Rourke et al., *Hepatology*, 2020  
+  _Identification of a pan‐gamma‐secretase inhibitor response signature for notch‐driven cholangiocarcinoma._  
+  https://journals.lww.com/hep/abstract/2020/01000/identification_of_a_pan_gamma_secretase_inhibitor.17.aspx
+
 - Koshiol et al., *Gastroenterology*, 2017  
   _Association of Aflatoxin and Gallbladder cancer in Shanghai._  
   https://pubmed.ncbi.nlm.nih.gov/28428144/
@@ -54,6 +58,10 @@ I have strong expertise in bioinformatics, high-throughput data analysis, and ma
   _Multiomic atlas with functional stratification and developmental dynamics of zebrafish cis-regulatory elements._  
   https://www.nature.com/articles/s41588-022-01089-w
 
+- **Nepal et al.**, *iScience*, 2020  
+  _Ancestrally duplicated conserved noncoding element suggests dual regulatory roles of HOTAIR in cis and trans._  
+  https://www.cell.com/iscience/fulltext/S2589-0042(20)30192-9
+
 - **Nepal et al.**, *Nucleic Acids Research*, 2016  
   _Transcriptional, post-transcriptional and chromatin-associated regulation of pri-miRNAs, pre-miRNAs, and moRNAs in zebrafish development._  
   https://academic.oup.com/nar/article/44/7/3070/2467725?login=false
@@ -61,6 +69,8 @@ I have strong expertise in bioinformatics, high-throughput data analysis, and ma
 - **Nepal et al.**, *Genome Research*, 2013  
   _Dynamic regulation of the transcription initiation landscape at single nucleotide resolution during vertebrate embryogenesis._  
   https://genome.cshlp.org/content/23/11/1938
+
+---
 
 For more details, visit my Google Scholar profile:  
 https://scholar.google.com/citations?user=ejoHmZQAAAAJ&hl=en
