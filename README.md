@@ -6,9 +6,9 @@ _Computational Genomics | Epigenetics | Precision Oncology_
 ---
 
 ### 🔬 About Me  
-I am a computational genomicist specializing in clinical genomics, epigenetics, and precision oncology. I leverage large-scale (epi)genetic and clinical datasets for hypothesis generation and translational research, focusing on biomarker discovery, mechanisms of drug resistance, and immuno-oncology applications.
+Computational Genomicist | Clinical Genomics • Epigenetics • Precision Oncology
+I use large-scale (epi)genomic and clinical data to uncover biomarkers, drug resistance mechanisms, and immune-oncology insights. Recently, I identified epigenetic burden as a unifying axis of cancer evolution, shaping tumor features and informing precision diagnostics.
 
-I have strong expertise in bioinformatics, high-throughput data analysis, and machine learning applied to cancer research, with a proven track record as a team leader and multiple high-impact publications.
 
 ---
 
